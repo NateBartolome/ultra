@@ -1,12 +1,19 @@
-## Wassup-world
+### Wassup-world
 
-First repo
-```{r cars}
+
+```{r}
 Hobbies
 ```
 * :video_game:
 * :sleeping:
 * :car:
+
+```{r}
+Languages
+```
+* SQL
+* R
+
 
 
 
